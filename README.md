@@ -1,4 +1,4 @@
-#Diffusion Steering via Reinforcement Learning for Improved Image Generation
+# Diffusion Steering via Reinforcement Learning for Improved Image Generation
 
 ---
  
